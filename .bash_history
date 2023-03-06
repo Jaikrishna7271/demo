@@ -187,3 +187,28 @@ cat /etc/group
 group add dev
 groupadd dev
 cat /etc/group
+git init
+git status
+git add  .
+git status
+git reset HEAD j
+git status
+git rm --cache jai
+git status
+touch demo.java
+ls
+git status
+git add .
+git status
+ls
+git restore --staged jai
+git status
+git add .
+git status
+git rm --cached *
+history
+git commit -m "v1"
+git log
+git branch
+git status
+git branch
